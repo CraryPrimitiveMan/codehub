@@ -1,6 +1,3 @@
-# codehub
-A blog based on canvas
-
 <p align="center">
     <img src="https://raw.githubusercontent.com/cnvs/assets/master/logo.png" width="240">
 </p>
